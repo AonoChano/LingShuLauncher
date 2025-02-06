@@ -59,4 +59,4 @@ If you find LingShu Launcher useful and would like to support its development, y
 </table>
 
 ## License
-This project is licensed under the [MIT] license. See the `LICENSE` file for more details.
+This project is licensed under the MIT license. See the `LICENSE` file for more details.
