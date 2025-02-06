@@ -36,7 +36,7 @@ cd LingShuLauncher
 ```bash
 python launch.py
 ```
-2. **Adding Programs**: Click the "➕" button in the launcher. A file dialog will open, allowing you to select the executable file (`.exe`) of the program you want to add.
+2. **Adding Programs**: Checke the "布局模式" checkbox to enable the layout mode first and then click the "➕" button in the launcher. A file dialog will open, allowing you to select the executable file (`.exe`) of the program you want to add.
 3. **Deleting Programs**: In layout mode (enabled by checking the "布局模式" checkbox), click the middle mouse button on a program icon to delete it.
 4. **Reordering Programs**: In layout mode, right - click on a program icon to start the drag - and - drop operation for reordering. However, due to the existing issue, this functionality may not work perfectly.
 5. **Launching Programs**: Left - click on a program icon to launch the corresponding application.
