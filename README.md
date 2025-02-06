@@ -54,8 +54,8 @@ If you find LingShu Launcher useful and would like to support its development, y
 
 <table>
   <tr>
-    <td><img src="WeChatPay.png" alt="WeChat Pay" width="200"></td>
-    <td><img src="Alipay.png" alt="Alipay" width="200"></td>
+    <td><img src="WeChat.png" alt="WeChat Pay" width="200"></td>
+    <td><img src="Alipay.jpg" alt="Alipay" width="200"></td>
   </tr>
 </table>
 
