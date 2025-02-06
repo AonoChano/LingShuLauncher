@@ -52,7 +52,7 @@ python launch.py
 <table>
   <tr>
     <td><img src="WeChat.png" alt="微信悬赏" width="300"></td>
-    <td><img src="Alipay.jps" alt="支付宝" width="200"></td>
+    <td><img src="Alipay.jpg" alt="支付宝" width="200"></td>
   </tr>
 </table>
 
