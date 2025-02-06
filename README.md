@@ -42,6 +42,7 @@ python launch.py
 5. **Launching Programs**: Left - click on a program icon to launch the corresponding application.
 
 ## List to Do
+- **English Version**: Switch common languages according to the system language.
 - **Fix URL Icon Import**: Resolve the problem of importing URL - based icons. This includes improving the detection and handling of icons for applications like Steam to ensure accurate and consistent icon display.
 - **Enhance Right - click Drag Functionality**: Debug and improve the right - click drag - and - drop feature. Implement a more stable and user - friendly reordering mechanism to allow seamless arrangement of programs.
 - **User Interface Optimization**: Improve the overall appearance of the launcher. This could involve adjusting the color scheme, icon sizes, and layout spacing for a more aesthetically pleasing and visually organized interface.
