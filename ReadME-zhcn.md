@@ -22,11 +22,11 @@ pip install PyQt5 pywin32
 ```
 3. 将项目仓库克隆到本地机器：
 ```bash
-git clone [仓库地址]
+git clone https://github.com/AonoChano/LingShuLauncher.git
 ```
 4. 导航到项目目录：
 ```bash
-cd [项目目录]
+cd LingShuLauncher
 ```
 
 ## 使用方法
