@@ -47,12 +47,12 @@ python launch.py
 - **实现跨平台兼容**：目前该启动器是为 Windows 系统开发的，探索使其具备跨平台兼容性，支持 macOS 和 Linux 等操作系统的可能性。
 
 ## 赞助支持
-如果您觉得灵枢启动器实用，并希望支持其开发，您可以通过以下支付方式进行赞助：
+如果您觉得灵枢启动器实用，并希望支持其开发，您可以通过以下支付方式进行赞助，或是给个免费的Star：
 
 <table>
   <tr>
-    <td><img src="WeChat.jpg" alt="微信悬赏" width="200"></td>
-    <td><img src="Alipay.png" alt="支付宝" width="200"></td>
+    <td><img src="WeChat.png" alt="微信悬赏" width="300"></td>
+    <td><img src="Alipay.jps" alt="支付宝" width="200"></td>
   </tr>
 </table>
 
