@@ -51,7 +51,7 @@ python launch.py
 
 <table>
   <tr>
-    <td><img src="WeChatPay.png" alt="微信支付" width="200"></td>
+    <td><img src="WeChat.jpg" alt="微信悬赏" width="200"></td>
     <td><img src="Alipay.png" alt="支付宝" width="200"></td>
   </tr>
 </table>
