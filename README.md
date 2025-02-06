@@ -24,7 +24,7 @@ pip install PyQt5 pywin32
 ```
 3. Clone the project repository to your local machine:
 ```bash
-[git clone [repository_url]](https://github.com/AonoChano/LingShuLauncher.git)
+git clone https://github.com/AonoChano/LingShuLauncher.git
 ```
 4. Navigate to the project directory:
 ```bash
